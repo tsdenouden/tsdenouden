@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tsdenouden
+- 👀 I’m interested in game & web development.
+- 🌱 I’m currently learning how to write game engines in C/C++.
+- 📫 You can reach out to me on my [twitter](https://twitter.com/tris687)
