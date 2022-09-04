@@ -12,6 +12,6 @@ A few things I've made:
 * Spoderbirb - minimalist 2D action shooter.
 
 Links & Contact
-[Youtube](https://www.youtube.com/channel/UCFtJ-g7eYrA9LUcaSOiBBBA)
-[Behance](https://www.behance.net/tristandenouden)
-[My old itch.io page](https://tristanshawn.itch.io/)
+[Youtube](https://www.youtube.com/channel/UCFtJ-g7eYrA9LUcaSOiBBBA)  
+[Behance](https://www.behance.net/tristandenouden)  
+[My old itch.io page](https://tristanshawn.itch.io/) 
