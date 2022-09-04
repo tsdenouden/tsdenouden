@@ -11,7 +11,7 @@ A few things I've made:
 * Photo Filter app - Grayscale, Mirror, Blur & Edge detection filters.
 * Spoderbirb - minimalist 2D action shooter.
 
-Links & Contact
+Links & Contact  
 [Youtube](https://www.youtube.com/channel/UCFtJ-g7eYrA9LUcaSOiBBBA)  
 [Behance](https://www.behance.net/tristandenouden)  
 [My old itch.io page](https://tristanshawn.itch.io/) 
