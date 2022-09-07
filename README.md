@@ -1,4 +1,4 @@
-Hello, I'm Tristan Shawn, an 18-year old software developer based in Flevoland, Netherlands.  
+Hello, I'm Tristan Shawn, an 18-year old aspiring software developer based in Flevoland, Netherlands.  
 I specialise in web & app development and I'm currently building up my UI/UX skills.
 
 Skillset: HTML, CSS, Sass, Bootstrap, Tailwind, JS, Vue.js, Node.js, Python, Flask, Django, GDScript, C, C#, SQL
