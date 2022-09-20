@@ -7,8 +7,9 @@ A few things I've made:
 
 * Enoto - a web-based Markdown editor with an easy-to-use theme editor.
 * Stocks Web app - Quote, buy & sell stocks. Keep track of them in your portfolio & transaction history.
-* Benkyou - a web app for students to help improve productivity & maintain focus via the Pomodoro technique.
+* Recipes REST API - Stores the recipes of your favourite dishes alongside pictures & extra descriptions.
 * Photo Filter app - Grayscale, Mirror, Blur & Edge detection filters.
+* Benkyou - a web app for students to help improve productivity & maintain focus via the Pomodoro technique.
 * Spoderbirb - minimalist 2D action shooter.
 
 Links & Contact  
