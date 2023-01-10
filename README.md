@@ -7,7 +7,7 @@
 * ```CLI``` **PyALC** - Compiler (Transpiler) for Cambridge A Level Pseudocode to Python. (Python)
 * ```Backend``` **Recipes REST API** - Store & fetch your favourite recipes (with pictures, stats & extra info). (FastAPI, Python)
 * ```Full Stack``` **Stocks Trading Simulator** - Quote, buy, sell stocks with real prices fetched from IEX Cloud Core Data API. (Flask, Python)
-* ```CLI```**Photo filter app** - Apply an array of filters to bitmap images: Grayscale, Reflect, Blur, Edge detection. (C)
+* ```CLI``` **Photo filter app** - Apply an array of filters to bitmap images: Grayscale, Reflect, Blur, Edge detection. (C)
 
 💡 Interests
 * Web development
