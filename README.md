@@ -20,7 +20,7 @@ JavaScript, TypeScript, Java, Python, C
 Git, ReactJS, React Native, Redux, HTML, CSS/SCSS/Bootstrap, Node.js, Flask, Spring Boot
 
 Reach me by email or LinkedIn!  
-trisdo687@gmail.com
+trisdo687@gmail.com  
 https://www.linkedin.com/in/tristan-shawn-den-ouden/
 
 Outdated portfolio lol  
