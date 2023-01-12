@@ -1,17 +1,37 @@
-👋 My name is Tristan Shawn and I'm an A Levels student from the Netherlands. 
+<h1 align="center"><b>Tristan Shawn</b></h1>
+My name is Tristan Shawn, I'm an A Levels student from the Netherlands!
 
-⚡️ Projects
-* ```Full Stack``` **PolyQuiz** - Generate shareable quizzes from study notes. (ReactJS, Redux, MaterialUI, Node.js, Express, MongoDB, Google OAuth)
-* ```Full Stack``` **Enoto** - Create & format PDFs with Markdown & a CSS generator. (Flask, Python, JavaScript)
-* ```Full Stack``` **Stocks Trading Simulator** - Quote, buy, sell stocks with real prices fetched from IEX Cloud Core Data API. (Flask, Python)
-* ```Mobile``` **MediumReader** - Mobile client for reading Medium articles. (React Native, JavaScript)
-* ```Backend``` **Recipes REST API** - Store & fetch your favourite recipes (with pictures, stats & extra info). (FastAPI, Python)
-* ```CLI``` **PyALC** - Compiler (Transpiler) for Cambridge A Level Pseudocode to Python. (Python)
-* ```CLI``` **Photo Filter App** - Apply an array of filters to bitmap images: Grayscale, Reflect, Blur, Edge detection. (C)
+<h2 align="center"><b>Projects</b></h1>
+* **PolyQuiz**
+  - Create & share study sets with other students. 
+  - Generate a random quiz from any study set.
+  - ReactJS, Redux, MaterialUI, Node.js, Express, MongoDB, Google OAuth
 
-💡 Interests
-* Web development
-* AI
+* **Enoto** 
+  - a Markdown editor for creating PDFs and simple websites.
+  - Format & style your documents using the no-code theme editor.
+  - Flask, Python, JavaScript, Tailwind
+
+* **PyALC** 
+  - Compiler (Transpiler) for Cambridge A Level Pseudocode to Python.
+  - Python
+
+* **Stocks Trading Simulator** 
+  - Quote, buy, and sell stocks with real prices fetched from IEX Cloud Core Data API. 
+  - View your portfolio & transaction history from your profile.
+  - Flask, Python, SQLite3, IEX Core Data API
+
+* **MediumReader** 
+  - Mobile client for reading Medium articles. 
+  - React Native, JavaScript
+
+* **Recipes REST API** 
+- Store & fetch your favourite recipes. 
+- FastAPI, Python
+
+* **Photo Filter App** 
+  - Apply filters to bitmap images: Grayscale, Reflect, Blur, Edge detection.
+  - C
 
 💻 Languages  
 JavaScript, TypeScript, Java, Python, C
