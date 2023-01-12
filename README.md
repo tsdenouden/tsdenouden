@@ -2,6 +2,7 @@
 My name is Tristan Shawn, I'm an A Levels student from the Netherlands!
 
 <h2 align="center"><b>Projects</b></h1>
+
 * **PolyQuiz**
   - Create & share study sets with other students. 
   - Generate a random quiz from any study set.
